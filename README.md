@@ -1,6 +1,6 @@
 ## Hello There!
 
-I'm [Jay Wang](https://zijie.wang), a safety resaercher at OpenAI. I design,
+I'm [Jay Zang](https://zijie.wang), a safety resaercher at OpenAI. I design,
 code, research, and write. I received my PhD from Georgia Tech in 2024.
 
 My work focuses on making AI more accessible, interpretable, and accountable, by
