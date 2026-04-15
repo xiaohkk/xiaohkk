@@ -9,13 +9,11 @@ and enjoyably interact with **Machine Learning systems** at scale.
 
 ## What I'm building now
 
-**Precipitator** -- an AI-native infrastructure platform that turns a single prompt into a fully provisioned, deployed, and wired-up stack. Describe what you want in plain English, get a live URL in seconds. It also gives every PR a complete preview environment -- frontend, backend, database, seeded data, SSL, custom subdomain -- torn down automatically on merge.
+I'm presently working at OpenAI and consulting at Hyperliquid on security. Through that work I became close friends with the CEO, and while embedded in the ecosystem I noticed prediction markets on Solana were catching a wave -- the infrastructure was there but the tooling and UX weren't. When I brought the idea up, the Hyperliquid team encouraged me to run with it.
 
-The stack is TypeScript, Rust, and Go -- a prompt engine that parses natural language into deterministic service graphs, a provider-agnostic provisioner layer, and an intelligence layer that predicts failures and auto-recovers.
+Precipitator is the result -- an on-chain prediction market platform on Solana with an AI-native edge. The stack is TypeScript, Rust, and Go: a prompt engine that parses natural language into deterministic service graphs, a provider-agnostic provisioner layer, and an intelligence layer that predicts failures and auto-recovers.
 
-## Outside work
-
-I spend most of my spare time coding. I like picking apart developer tools, contributing to open-source projects, and prototyping ideas around AI-assisted workflows. When I'm not writing code I'm usually reading about programming language design or trying out new frameworks.
+It's a passion project built with Hyperliquid's blessing -- not a pivot, just a builder scratching an itch where the opportunity was obvious.
 
 Follow what I'm working on: [x.com/PrecipitatorWin](https://x.com/PrecipitatorWin)
 
