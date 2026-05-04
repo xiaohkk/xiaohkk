@@ -15,7 +15,7 @@ Precipitator is the result -- an on-chain prediction market platform on Solana w
 
 It's a passion project built with Hyperliquid's blessing -- not a pivot, just a builder scratching an itch where the opportunity was obvious.
 
-Follow what I'm working on: [x.com/PrecipitatorWin](https://x.com/PrecipitatorWin)
+Follow what I'm working on: [x.com/percolatorpump](https://x.com/percolatorpump)
 
 ---
 
