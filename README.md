@@ -1,6 +1,6 @@
 ## Hello There!
 
-I'm [Jay Wang](https://www.linkedin.com/in/zijiewang), a safety resaercher at OpenAI. I design,
+I'm [Jay Wang](https://www.linkedin.com/in/zijiewang), a safety researcher at OpenAI. I design,
 code, research, and write. I received my PhD from Georgia Tech in 2024.
 
 My work focuses on making AI more accessible, interpretable, and accountable, by
@@ -9,13 +9,13 @@ and enjoyably interact with **Machine Learning systems** at scale.
 
 ## What I'm building now
 
-I'm presently working at OpenAI and consulting at Hyperliquid on security. Through that work I became close friends with the CEO, and while embedded in the ecosystem I noticed prediction markets on Solana were catching a wave -- the infrastructure was there but the tooling and UX weren't. When I brought the idea up, the Hyperliquid team encouraged me to run with it.
+I'm presently working at OpenAI and consulting at Hyperliquid on security for the perpetual markets, and in the ecosystem I've noticed prediction markets on Solana were catching a wave -- the infrastructure was there but the tooling and UX weren't. When I brought the idea up, the Hyperliquid team encouraged me to run with it.
 
-Precipitator is the result -- an on-chain prediction market platform on Solana with an AI-native edge. The stack is TypeScript, Rust, and Go: a prompt engine that parses natural language into deterministic service graphs, a provider-agnostic provisioner layer, and an intelligence layer that predicts failures and auto-recovers.
+LeverMint is the result -- an on-chain prediction market platform on Solana with an AI-native edge. The stack is TypeScript, Rust, and Go: a prompt engine that parses natural language into deterministic service graphs, a provider-agnostic provisioner layer, and an intelligence layer that predicts failures and auto-recovers.
 
 It's a passion project built with Hyperliquid's blessing -- not a pivot, just a builder scratching an itch where the opportunity was obvious.
 
-Follow what I'm working on: [x.com/percolatorpump](https://x.com/percolatorpump)
+Follow what I'm working on: [x.com/LeverMintFun](https://x.com/LeverMintFun) 
 
 ---
 
