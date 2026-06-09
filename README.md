@@ -7,15 +7,15 @@ My work focuses on making AI more accessible, interpretable, and accountable, by
 designing and developing novel **Interactive Interfaces** for people to easily
 and enjoyably interact with **Machine Learning systems** at scale.
 
+
+
 ## What I'm building now
 
-I'm presently working at OpenAI and consulting at Hyperliquid on security for the perpetual markets, and in the ecosystem I've noticed prediction markets on Solana were catching a wave -- the infrastructure was there but the tooling and UX weren't. When I brought the idea up, the Hyperliquid team encouraged me to run with it.
+Mood Scroll is where that focus meets everyday life. It's a Chrome extension that puts a vision model in charge of your TikTok For You feed: you pick a mood (cooking, fitness, comedy, brain rot, or any niche you type in) and the AI watches every video as it loads, likes the ones that match, and skips the rest in under a second. After about ten minutes your feed is tuned to exactly what you asked for. Prefer hands-free? Auto Scroll just plays your feed and curates in the background while you work.
 
-LeverMint is the result -- an on-chain prediction market platform on Solana with an AI-native edge. The stack is TypeScript, Rust, and Go: a prompt engine that parses natural language into deterministic service graphs, a provider-agnostic provisioner layer, and an intelligence layer that predicts failures and auto-recovers.
+Under the hood it's a small, fast pipeline built around AI. Free keyword and hashtag filters handle the obvious cases in milliseconds, and a GPT-4o vision classifier (three frames plus the caption) makes the close calls. It's built with WXT, TypeScript, and a Shadow-DOM overlay so it sits cleanly on top of TikTok. It's the kind of project I like most: a genuinely useful AI interface that also happens to be fun to use.
 
-It's a passion project built with Hyperliquid's blessing -- not a pivot, just a builder scratching an itch where the opportunity was obvious.
-
-Follow what I'm working on: [x.com/LeverMintFun](https://x.com/LeverMintFun) 
+Follow along:  [https://www.github.com/xiaohkk/mood-scroll](https://www.github.com/xiaohkk/mood-scroll)
 
 ---
 
