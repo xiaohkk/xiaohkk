@@ -11,7 +11,7 @@ and enjoyably interact with **Machine Learning systems** at scale.
 
 ## What I'm building now
 
-Mood Scroll is where that focus meets everyday life. It's a Chrome extension that puts a vision model in charge of your TikTok For You feed: you pick a mood (cooking, fitness, comedy, brain rot, or any niche you type in) and the AI watches every video as it loads, likes the ones that match, and skips the rest in under a second. After about ten minutes your feed is tuned to exactly what you asked for. Prefer hands-free? Auto Scroll just plays your feed and curates in the background while you work.
+[Mood Scroll](https://x.com/moodscroller) is where that focus meets everyday life. It's a Chrome extension that puts a vision model in charge of your TikTok For You feed: you pick a mood (cooking, fitness, comedy, brain rot, or any niche you type in) and the AI watches every video as it loads, likes the ones that match, and skips the rest in under a second. After about ten minutes your feed is tuned to exactly what you asked for. Prefer hands-free? Auto Scroll just plays your feed and curates in the background while you work.
 
 Under the hood it's a small, fast pipeline built around AI. Free keyword and hashtag filters handle the obvious cases in milliseconds, and a GPT-4o vision classifier (three frames plus the caption) makes the close calls. It's built with WXT, TypeScript, and a Shadow-DOM overlay so it sits cleanly on top of TikTok. It's the kind of project I like most: a genuinely useful AI interface that also happens to be fun to use.
 
