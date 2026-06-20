@@ -11,11 +11,11 @@ and enjoyably interact with **Machine Learning systems** at scale.
 
 ## What I'm building now
 
-[Mood Scroll](https://x.com/moodscroller) is where that focus meets everyday life. It's a Chrome extension that puts a vision model in charge of your TikTok For You feed: you pick a mood (cooking, fitness, comedy, brain rot, or any niche you type in) and the AI watches every video as it loads, likes the ones that match, and skips the rest in under a second. After about ten minutes your feed is tuned to exactly what you asked for. Prefer hands-free? Auto Scroll just plays your feed and curates in the background while you work.
+AgentVault is what happens when you let AI agents spend real money but keep your hand on a kill switch. It's a treasury protocol on Solana: fund one USDC vault, register each agent with a per-task budget cap, and every payment an agent makes gets checked against that cap on-chain before it clears — no private keys handed to autonomous code, no surprise drains. Trip the kill switch on any agent and its spending access is revoked instantly, while its full history stays on the books. Every payment leaves a permanent on-chain receipt you can audit on Solana Explorer. Prefer to drive it from code? A TypeScript SDK and CLI run the whole flow headless.
 
-Under the hood it's a small, fast pipeline built around AI. Free keyword and hashtag filters handle the obvious cases in milliseconds, and a GPT-4o vision classifier (three frames plus the caption) makes the close calls. It's built with WXT, TypeScript, and a Shadow-DOM overlay so it sits cleanly on top of TikTok. It's the kind of project I like most: a genuinely useful AI interface that also happens to be fun to use.
+Under the hood it's a small, sharp stack. An Anchor program in Rust holds the vault and enforces the budgets; vaults, agents, payments, and receipts all live as Program Derived Addresses, so the rules belong to the chain, not a server. A Next.js dashboard reads everything live from devnet — create a vault, fund it, register an agent, or hit the kill switch straight from your wallet. It's the kind of project I like most: real on-chain guardrails for AI that are genuinely useful and a little fun to run.
 
-Follow along:  [https://www.github.com/xiaohkk/mood-scroll](https://www.github.com/xiaohkk/mood-scroll)
+Follow along: [https://github.com/xiaohkk/agentvault](https://github.com/xiaohkk/agentvault)
 
 ---
 
